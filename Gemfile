@@ -9,6 +9,9 @@ gem 'sqlite3'
 
 gem 'devise'
 
+#Mapping functionality: https://github.com/apneadiving/Google-Maps-for-Rails
+gem 'gmaps4rails'
+
 # Gems used only for assets and not required
 # in production environments by default.
 group :assets do
